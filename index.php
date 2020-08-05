@@ -13,9 +13,11 @@
             <span id="intro">Hello.</span>
             <span id="load">Welcome To PizzaClient</span>
             <span id="enjoy">Hope You Enjoy The Client.</span>
-            <span id="Stuff" href="https://pizzaclient-website.herokuapp.com/PizzaClientInstaller.zip" download>
+            <span id="Stuff">
 
+                <a href="https://pizzaclient-website.herokuapp.com/PizzaClientInstaller.zip" download>
               <btn class="btn">Download</btn>
+            </a>
 
             </span>
 
