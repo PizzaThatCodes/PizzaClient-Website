@@ -2,7 +2,10 @@ $(document).ready(function () {
 
     $("#intro").fadeIn(1000).delay(2000).fadeOut(function () {
 
-        $("#load").fadeIn(1000);
+        $("#load").fadeIn(1000).delay(2000).fadeOut(function () {
+
+          $("#quote").fadeIn(1000);
+        })
 
     });
 

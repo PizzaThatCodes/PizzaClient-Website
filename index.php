@@ -11,8 +11,8 @@
             <div class="process">
 
             <span id="intro">Hello.</span>
-            <span id="load">Just getting a few things ready</span>
-            <span id="done">Ok. I am finished Installing PizzaClient</span>
+            <span id="load">Welcome To PizzaClient</span>
+            <span id="quote">"Pizza Is God"</span>
             <span id="close"><btn onclick="feedback.close()" class="btn">Close Installer</btn></span>
 
             </div>
