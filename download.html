@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>PizzaClient Download</title>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <!-- import the webpage's stylesheet -->
+    <link rel="stylesheet" href="/style.css" />
+
+    <!-- import the webpage's javascript file -->
+    <script src="/script.js" defer></script>
+  </head>
+  <body>
+    <nav class="header" id="MyHeader">
+      <img
+        src="https://media.discordapp.net/attachments/683632771033464845/705354220878037052/old-icon.png"
+        class="profile-img"
+      />
+     <li><a href="index.html">Home</a></li>
+      <li><a href="download.html">Download</a></li>
+    </nav>
+    <h1>
+      Download PizzaClient
+    </h1>
+    <pizzaclient-text>After Downloading the .zip file extract it and put the folder in your versions folder (in .minecraft)</pizzaclient-text>
+    <a href="https://cdn.glitch.com/7ce174a6-55d6-425f-ad3d-a66aedc98da2%2FPizzaClient.zip?v=1592072585730" download>
+      <button class="button">Download</button>
+    </a>
+    
+    
+    <script>
+      window.onscroll = function() {
+        myFunction();
+      };
+
+      var header = document.getElementById("MyHeader");
+      var sticky = header.offsetTop;
+
+      function myFunction() {
+        if (window.pageYOffset > sticky) {
+          header.classList.add("sticky");
+        } else {
+          header.classList.remove("sticky");
+        }
+      }
+    </script>
+    
+  </body>
+
+  
+</html>

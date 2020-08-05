@@ -1,0 +1,159 @@
+/* CSS files add styling rules to your content */
+
+body {
+  font-family: helvetica, arial, sans-serif;
+  margin: 0px;
+  background-image: url("https://media.discordapp.net/attachments/683632771033464845/705861732022747218/splashooooooof_-_Copy.jpg?width=912&height=1280");
+  background-color: #cccccc;
+  height: 500px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+h1 {
+  margin: 20px;
+  font-style: italic;
+  color: White;
+}
+
+ul {
+  margin: 0px;
+  padding: 0;
+  list-style-type: none;
+}
+
+nav > li > a {
+  display: inline-block;
+  font-size: 14px;
+  letter-spacing: 1px;
+  color: Black;
+  padding: 0 12px;
+  opacity: 0.7;
+  text-transform: uppercase;
+}
+download {
+  font-size: 14px;
+  padding: 14px 14px;
+}
+
+nav > a {
+  color: #666;
+}
+nav {
+  background-color: White;
+  color: White;
+  opacity: 0.85;
+}
+
+li {
+  font-style: bold;
+  margin: 10px 10px 0px 20px;
+  display: inline-block;
+  margin-right: 0px;
+  font-size: 0.5;
+}
+div {
+  background: White;
+  padding: 250px 100px;
+  margin: 50px 50px;
+  opacity: 0.95;
+  text-opacity: 0;
+}
+info {
+  background-color: White;
+  color: Black;
+  background: White;
+  margin: -100px -100px 0px -100px;
+}
+
+/* Style the header */
+.header {
+  padding: 10px 16px;
+  background: #555;
+  color: #f1f1f1;
+}
+
+/* Page content */
+.content {
+  padding: 16px;
+}
+
+/* The sticky class is added to the header with JS when it reaches its scroll position */
+.sticky {
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+/* Add some top padding to the page content to prevent sudden quick movement (as the header gets a new position at the top of the page (position:fixed and top:0) */
+.sticky + .content {
+  padding-top: 102px;
+}
+
+.container {
+  width: 100%;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  position: absolute;
+  top: 150%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: #353b48;
+  color: white;
+  text-align: center;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+  font-family: verdana;
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+user agent stylesheet ul {
+  display: block;
+  list-style-type: disc;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  padding-inline-start: 40px;
+}
+about {
+  display: list-item;
+  text-align: -webkit-match-parent;
+}
+
+pizzaclient-text {
+  font-size: 15px;
+  color: Magenta;
+}
+
+.button {
+  padding: 15px 25px;
+  font-size: 24px;
+  text-align: center;
+  cursor: pointer;
+  outline: none;
+  color: #fff;
+  background-color: #4CAF50;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 9px #999;
+  margin: 250px 650px;
+}
+
+.button:hover {background-color: #3e8e41}
+
+.button:active {
+  background-color: #3e8e41;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
