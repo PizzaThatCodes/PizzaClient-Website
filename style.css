@@ -3,7 +3,7 @@
 body {
   font-family: helvetica, arial, sans-serif;
   margin: 0px;
-  background-image: url("https://media.discordapp.net/attachments/683632771033464845/705861732022747218/splashooooooof_-_Copy.jpg?width=912&height=1280");
+  background: linear-gradient(-180deg, rgba(205, 158, 116, 0.5) 0%, rgba(160, 107, 84, 0.87) 100%), url("bg.png") !important;
   background-color: #cccccc;
   height: 500px;
   background-position: center;
