@@ -1,5 +1,20 @@
-/* If you're feeling fancy you can add interactivity 
-    to your site with Javascript */
+$(document).ready(function () {
 
-// prints "hi" in the browser's dev tools console
-console.log("hi");
+    $("#intro").fadeIn(1000).delay(2000).fadeOut(function () {
+
+        $("#load").fadeIn(1000);
+
+    });
+
+});
+
+function finished() {
+
+    $("#load").fadeOut(function () {
+        $(".loader").fadeOut(1000);
+        $("#done").fadeIn(1000).delay(2000).fadeOut(1000, function () {
+            $("#close").fadeIn(1000);
+        });
+    });
+
+}
