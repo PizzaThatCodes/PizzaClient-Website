@@ -1,23 +1,33 @@
-<!DOCTYPE html>
-<html lang="en">
+<html>
 
-  <head>
-    <title>PizzaClient Home</title>
-    <meta charset="utf-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
+<head>
     <link rel="stylesheet" type="text/css" href="assets/style.css">
-  </head>
+</head>
 
-    <body class="noselect">
+<body class="noselect">
 
-        <div class="container">
-            <div class="content">
-                <div class="process">
+    <div class="container">
+        <div class="content">
+            <div class="process">
 
-                </div>
+            <span id="intro">Hello.</span>
+            <span id="load">Just getting a few things ready</span>
+            <span id="done">Ok. I am finished Installing PizzaClient</span>
+            <span id="close"><btn onclick="feedback.close()" class="btn">Close Installer</btn></span>
+
             </div>
-
         </div>
-  </body>
+
+    </div>
+
+    <!-- <div class="loader">
+        <object type="image/svg+xml" data="assets/spinner.svg"></object>
+    </div> -->
+
+    <!-- <script src="assets/jquery.min.js"></script>
+    <script src="assets/script.js"></script> -->
+
+</body>
+
+
 </html>
