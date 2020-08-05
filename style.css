@@ -3,9 +3,10 @@
 body {
   font-family: helvetica, arial, sans-serif;
   margin: 0px;
+  padding: 0px;
   background: linear-gradient(-180deg, rgba(205, 158, 116, 0.5) 0%, rgba(160, 107, 84, 0.87) 100%), url("bg.png") !important;
   background-color: #cccccc;
-  height: 500px;
+  /* height: 500px; */
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
