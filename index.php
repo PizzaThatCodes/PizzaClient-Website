@@ -24,8 +24,8 @@
         <object type="image/svg+xml" data="assets/spinner.svg"></object>
     </div> -->
 
-    <!-- <script src="assets/jquery.min.js"></script>
-    <script src="assets/script.js"></script> -->
+    <script src="jquery.min.js"></script>
+    <script src="script.js"></script>
 
 </body>
 
