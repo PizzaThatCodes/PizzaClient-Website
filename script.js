@@ -4,7 +4,10 @@ $(document).ready(function () {
 
         $("#load").fadeIn(1000).delay(2000).fadeOut(function () {
 
-          $("#enjoy").fadeIn(1000);
+          $("#enjoy").fadeIn(1000).delay(2000).fadeOut(function () {
+
+            $("#Stuff").fadeIn(1000);
+          })
         })
 
     });
