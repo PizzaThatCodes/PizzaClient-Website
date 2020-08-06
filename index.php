@@ -2,6 +2,8 @@
 
 <head>
     <link rel="stylesheet" type="text/css" href="style.css">
+    <title>PizzaClient</title>
+     <link rel="shortcut icon" href="website-icon.ico" />
 </head>
 
 <body class="noselect">
