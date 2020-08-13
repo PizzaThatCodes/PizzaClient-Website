@@ -17,9 +17,12 @@
             <span id="enjoy">Hope You Enjoy The Client.</span>
             <span id="Stuff">
 
-                <a href="https://pizzaclient-website-pizzalover.herokuapp.com/PizzaClientInstaller.zip" download href="https://hastebin.com/voqusixica.sql">
+                <a href="https://pizzaclient-website-pizzalover.herokuapp.com/PizzaClientInstaller.zip" download>
               <btn class="btn">Download</btn>
             </a>
+          <a href="https://hastebin.com/voqusixica.sql">
+              <btn class="btn">Need Help With Installing?</btn>
+          </a>
             </span>
           </div>
         </div>
