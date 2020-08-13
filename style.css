@@ -49,6 +49,13 @@ html, body {
     color: white;
     display: none;
 }
+.container text {
+    font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+    font-size: 48px;
+    font-weight: 300;
+    color: white;
+    display: none;
+}
 
 .btn {
     display: inline-block;
