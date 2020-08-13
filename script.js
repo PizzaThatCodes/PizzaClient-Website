@@ -7,6 +7,7 @@ $(document).ready(function () {
           $("#enjoy").fadeIn(1000).delay(2000).fadeOut(function () {
 
             $("#Stuff").fadeIn(1000);
+            $("#downloadstep1").fadeIn(1000);
           })
         })
 
