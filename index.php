@@ -20,9 +20,9 @@
                 <a href="https://pizzaclient-website-pizzalover.herokuapp.com/PizzaClientInstaller.zip" download>
               <btn class="btn">Download</btn>
             </a>
+                        <text>Test</text>
 
             </span>
-            <span id="2">Test</span>
 
             </div>
         </div>
