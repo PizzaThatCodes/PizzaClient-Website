@@ -7,7 +7,6 @@ $(document).ready(function () {
           $("#enjoy").fadeIn(1000).delay(2000).fadeOut(function () {
 
             $("#Stuff").fadeIn(1000);
-            $("#2").fadeIn(1000);
           })
         })
 
