@@ -55,6 +55,7 @@ html, body {
     font-weight: 300;
     color: white;
     display: none;
+    margin-top: 50px;
 }
 
 .btn {
