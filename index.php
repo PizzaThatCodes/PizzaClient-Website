@@ -20,9 +20,9 @@
                 <a href="https://pizzaclient-website-pizzalover.herokuapp.com/PizzaClientInstaller.zip" download>
               <btn class="btn">Download</btn>
             </a>
-            <span id="downloadstep1">After Downloading PizzaClientInstaller.zip Extract it then make sure the file PizzaClientInstaller.jar</span>
 
             </span>
+            <span id="downloadstep1">After Downloading PizzaClientInstaller.zip Extract it then make sure the file PizzaClientInstaller.jar</span>
 
             </div>
         </div>
