@@ -6,9 +6,8 @@ $(document).ready(function () {
 
           $("#enjoy").fadeIn(1000).delay(2000).fadeOut(function () {
 
-            $("#Stuff").fadeIn(1000).then(
-            $("#downloadstep1").fadeIn(1000)
-          );
+            $("#Stuff").fadeIn(1000);
+            $("#2").fadeIn(1000);
           })
         })
 

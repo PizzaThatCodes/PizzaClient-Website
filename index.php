@@ -22,7 +22,7 @@
             </a>
 
             </span>
-            <span id="downloadstep1">After Downloading PizzaClientInstaller.zip Extract it then make sure the file PizzaClientInstaller.jar</span>
+            <span id="2">Test</span>
 
             </div>
         </div>
