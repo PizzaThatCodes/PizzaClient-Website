@@ -19,6 +19,14 @@ html, body {
     overflow: hidden;
 }
 
+.astext {
+    background:none;
+    border:none;
+    margin:0;
+    padding:0;
+    cursor: pointer;
+}
+
 .container {
     background: linear-gradient(-180deg, rgba(205, 158, 116, 0.5) 0%, rgba(160, 107, 84, 0.87) 100%), url("bg.png") !important;
     width: 100vw;
