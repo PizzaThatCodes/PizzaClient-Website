@@ -20,14 +20,10 @@
                 <a href="https://pizzaclient-website-pizzalover.herokuapp.com/PizzaClientInstaller.zip" download>
               <btn class="btn">Download</btn>
             </a>
-
             </span>
-
-            </div>
+          </div>
         </div>
-                    <text>Test</text>
-
-    </div>
+      </div>
 
     <!-- <div class="loader">
         <object type="image/svg+xml" data="assets/spinner.svg"></object>
