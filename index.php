@@ -16,7 +16,7 @@
   <meta property="og:description" content="Home • PizzaClient">
   <meta property="og:title" content="Home • pizzaclient.us.to">
   <meta property="og:url" content="http://pizzaclient.us.to">
-  <meta property="og:image" content="https://pizzaclient-website-pizzalover.herokuapp.com/Pizza%20Image%20-%20Copy.png">
+  <meta property="og:image" content="https://pizzaclient-website-pizzalover.herokuapp.com/favicon.png">
 </head>
 
 <body class="noselect">
