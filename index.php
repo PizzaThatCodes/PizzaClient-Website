@@ -4,7 +4,7 @@
     <link rel="stylesheet" type="text/css" href="style.css">
     <title>PizzaClient</title>
      <link rel="shortcut icon" href="website-icon.ico" />
-    <meta property="og:image" content="https://pizzaclient-website-pizzalover.herokuapp.com/website-icon.ico">
+    <meta property="og:image" content="https://pizzaclient-website-pizzalover.herokuapp.com/Pizza%20Image%20-%20Copy.png">
     
     
             <meta name="description" content="PizzaClient Download">
