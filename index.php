@@ -4,6 +4,18 @@
     <link rel="stylesheet" type="text/css" href="style.css">
     <title>PizzaClient</title>
      <link rel="shortcut icon" href="website-icon.ico" />
+    
+    
+      <meta name="description" content="Home • PizzaLover">
+  <meta name="language" content="English">
+  <meta name="author" content="PizzaLover">
+  <meta name="theme-color" content="#fcd303">
+
+  <meta property="og:type" content="website">
+  <meta property="og:description" content="Home • PizzaLover">
+  <meta property="og:title" content="Home • pizzaclient.us.to">
+  <meta property="og:url" content="http://pizzaclient.us.to">
+  <meta property="og:image" content="http://pizzaclient.us.to/imagePizza.png">
 </head>
 
 <body class="noselect">
