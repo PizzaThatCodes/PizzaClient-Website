@@ -7,16 +7,16 @@
     
       <meta charset="UTF-8">
     
-  <meta name="description" content="Home • PizzaClient">
+  <meta name="description" content="Download PizzaClient">
   <meta name="language" content="English">
   <meta name="author" content="PizzaLover, PizzaThatCodes">
   <meta name="theme-color" content="#fcd303">
 
   <meta property="og:type" content="website">
-  <meta property="og:description" content="Home • PizzaClient">
-  <meta property="og:title" content="Home • pizzaclient.us.to">
-  <meta property="og:url" content="http://pizzaclient.us.to">
-  <meta property="og:image" content="http://matthewtgm.ga/img/favicon.png">
+  <meta property="og:description" content="Download PizzaClient">
+  <meta property="og:title" content="PizzaClient">
+  <meta property="og:url" content="https://pizzaclient-website-pizzalover.herokuapp.com/">
+  <meta property="og:image" content="https://pizzaclient-website-pizzalover.herokuapp.com/favicon.png">
 </head>
 
 <body class="noselect">
