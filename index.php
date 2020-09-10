@@ -15,7 +15,7 @@
   <meta property="og:type" content="website">
   <meta property="og:description" content="Download PizzaClient">
   <meta property="og:title" content="PizzaClient">
-  <meta property="og:url" content="https://pizzaclient-website-pizzalover.herokuapp.com/">
+  <meta property="og:url" content="http://pizzaclient.us.to">
   <meta property="og:image" content="https://pizzaclient-website-pizzalover.herokuapp.com/favicon.png">
 </head>
 
