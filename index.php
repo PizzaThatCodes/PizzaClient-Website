@@ -7,16 +7,16 @@
     
       <meta charset="UTF-8">
     
-      <meta name="description" content="Home • PizzaClient">
+  <meta name="description" content="Home • MatthewTGM">
   <meta name="language" content="English">
-  <meta name="author" content="PizzaLover">
+  <meta name="author" content="MatthewTGM, Matthew Vaughan">
   <meta name="theme-color" content="#fcd303">
 
   <meta property="og:type" content="website">
-  <meta property="og:description" content="You Can Download PizzaClient Here!">
-  <meta property="og:title" content="Home • pizzaclient.us.to">
-  <meta property="og:url" content="http://pizzaclient.us.to">
-  <meta property="og:image" content="https://pizzaclient-website-pizzalover.herokuapp.com/favicon.png">
+  <meta property="og:description" content="Home • MatthewTGM">
+  <meta property="og:title" content="Home • matthewtgm.ga">
+  <meta property="og:url" content="http://matthewtgm.ga">
+  <meta property="og:image" content="http://matthewtgm.ga/img/favicon.png">
 </head>
 
 <body class="noselect">
